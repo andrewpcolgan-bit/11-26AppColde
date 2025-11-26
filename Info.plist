@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>&quot;We use your camera to take pictures of sets&quot;</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>&quot;We use your photo library so you can upload set pictures&quot;</string>
+	<key></key>
+	<string></string>
+	<key>GITHUB_API_KEY</key>
+	<string>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</string>
+	<key>BACKEND_ANALYZE_URL</key>
+	<string>https://swimjournal-api.vercel.app/api/analyze</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>&quot;Lets you eport a picture&quot;</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict/>
+	</array>
+</dict>
+</plist>
